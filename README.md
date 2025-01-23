@@ -40,7 +40,7 @@ A 'Unit/Currency Converter' application.
 1. Minumum 3 different unit categories (distance, weight, currency, etc)
 2. At least 3 different units in each category.
 3. Calculator-like num pad and two fields for original and converted values. The user should not be able to change data in these fields with default system keyboard.
-4. A keyboard and data recommend be in separate android fragments.
+4. A keyboard and data is recommended to be in separate android fragments.
    - portrait orientation: fragments are placed in a row (keyboard below data fragment)
    - landscape orientation: fragments have to be aligned in line.
 5. Create a 'premium' build flavour.
@@ -104,7 +104,7 @@ In the lab report, present the following diagrams: Use-Case diagram, Activity di
 1. Create 'Calculator' app.
 2. Application should have two modes: basic and scientific (see, well, samsung calculator for reference).
 3. Modes can be toggled via interface button.
-4. Each set of functions (numbers + basic functions and scientific functions) recommend be in separate fragments.
+4. Each set of functions (numbers + basic functions and scientific functions) is recommended to be in separate fragments.
 5. For landscape device orientation app should always be in scientific mode.
 6. Create a 'demo' build flavor with only basic functions available for both screen orientations. User should be able to have both 'demo' and 'full' versions on device at the same time.
 7. The use of third-party mathematical libraries and BigInteger is **prohibited**.
